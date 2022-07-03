@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* animals
+  * my cat Richard
+  * other cats
+* food
+  * pizza
+  * MacDonald`s
